@@ -53,21 +53,18 @@ February: $1,250,000
 March: $262,500
 April: $37,500
 May: $300,000
+
 Top 5 Customers by Total Purchase Amount:
 
-Cus1488: $29,340
-Cus1375: $28,925
-Cus1023: $28,205
-Cus1059: $28,005
-Cus1367: $27,920
+![image](https://github.com/user-attachments/assets/1ab614ab-b8e1-44f8-a204-5d341a6dcc90)
+
 Percentage of Total Sales Contributed by Each Region:
 
-East: 23.14%
-North: 18.42%
-South: 44.16%
-West: 14.29%
+![image](https://github.com/user-attachments/assets/bf9c7bc7-2e1e-4e57-8f7c-3443a557b3ef)
+
 Products with No Sales in the Last Quarter:
 
-Products: Shirt, Socks, Scarf, Pants, Sweater
+![image](https://github.com/user-attachments/assets/760a460a-957b-42e4-9993-c1b5d462929d)
+
 These products have no recorded sales in the most recent three months based on the available data.
 
