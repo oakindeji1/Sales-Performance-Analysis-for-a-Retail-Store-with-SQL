@@ -31,7 +31,7 @@
 ![image](https://github.com/user-attachments/assets/25fd09d8-bbe0-439c-b82c-ca1b69e43f22)
 
 
-Number of Sales Transactions in Each Region: 
+### Number of Sales Transactions in Each Region: 
 
 North: 12,500 transactions
 South: 12,500 transactions
@@ -42,11 +42,11 @@ West: 12,500 transactions
 
 ![image](https://github.com/user-attachments/assets/c81886c3-2730-451a-8418-2e1c2c9de6de)
 
-- Total Revenue per Product:
+### Total Revenue per Product:
 
 ![image](https://github.com/user-attachments/assets/4c076a03-7e6a-495c-80a9-995fb21857b5)
 
-- Monthly Sales Totals for the Current Year (2023):
+### Monthly Sales Totals for the Current Year (2023):
 
 January: $250,000
 February: $1,250,000
@@ -54,15 +54,15 @@ March: $262,500
 April: $37,500
 May: $300,000
 
-Top 5 Customers by Total Purchase Amount:
+### Top 5 Customers by Total Purchase Amount:
 
 ![image](https://github.com/user-attachments/assets/1ab614ab-b8e1-44f8-a204-5d341a6dcc90)
 
-Percentage of Total Sales Contributed by Each Region:
+### Percentage of Total Sales Contributed by Each Region:
 
 ![image](https://github.com/user-attachments/assets/bf9c7bc7-2e1e-4e57-8f7c-3443a557b3ef)
 
-Products with No Sales in the Last Quarter:
+### Products with No Sales in the Last Quarter:
 
 ![image](https://github.com/user-attachments/assets/760a460a-957b-42e4-9993-c1b5d462929d)
 
