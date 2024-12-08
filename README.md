@@ -33,10 +33,8 @@
 
 ### Number of Sales Transactions in Each Region: 
 
-North: 12,500 transactions
-South: 12,500 transactions
-East: 12,500 transactions
-West: 12,500 transactions
+![image](https://github.com/user-attachments/assets/6826e3f3-d406-4657-b40a-63e8f4a3f4cd)
+
 
 ### Highest-Selling Product by Total Sales Value:
 
@@ -48,11 +46,7 @@ West: 12,500 transactions
 
 ### Monthly Sales Totals for the Current Year (2023):
 
-January: $250,000
-February: $1,250,000
-March: $262,500
-April: $37,500
-May: $300,000
+
 
 ### Top 5 Customers by Total Purchase Amount:
 
